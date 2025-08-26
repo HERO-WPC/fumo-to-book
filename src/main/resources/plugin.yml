@@ -1,0 +1,10 @@
+name: fumoshu_demo
+main: fumoshu_demo.fumoshu_demo
+version: 9.9.9
+api-version: '1.21'
+author: hero_wpc
+description: 一个可以把物品附魔转移到书上的插件
+commands:
+  fms:
+    description: 有书和要去掉附魔的装备
+    usage: /<command>
